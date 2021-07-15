@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_subflow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test Subflow</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2021-07-15 05:29:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e931b56e2f597010a2b0af5df699b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Subflow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_546441_needit_sp">10aa81662f197010a2b0af5df699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">10aa81662f197010a2b0af5df699b67f</sys_scope>
+        <sys_update_name>sys_hub_flow_e931b56e2f597010a2b0af5df699b60e</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2021-07-15 05:29:50</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=e931b56e2f597010a2b0af5df699b60e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e931b56e2f597010a2b0af5df699b60e"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=e931b56e2f597010a2b0af5df699b60e^sys_idNOT IN2d31b56e2f597010a2b0af5df699b60f"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>e931b56e2f597010a2b0af5df699b60e</id>
+        <name>Test Subflow</name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2021-07-15 05:29:50</sys_created_on>
+        <sys_id>2d31b56e2f597010a2b0af5df699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2021-07-15 05:29:50</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
